@@ -393,7 +393,8 @@ body {
     background-color: var(--primary-color);
     color: var(--white);
     border-radius: 7px;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .img-content a {
@@ -401,6 +402,7 @@ body {
     font-size: 1.1rem;
     color: #fff;
     transition: 0.3s;
+    padding: 10px;
 }
 
 .img-content button:hover {
@@ -475,6 +477,8 @@ body {
     font-size: 1.1rem;
     color: #fff;
     transition: 0.3s;
+    padding: 10px;
+
 }
 
 .img-content2 button {
@@ -482,7 +486,8 @@ body {
     background-color: var(--primary-color);
     color: var(--white);
     border-radius: 10px;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .img-content2 button:hover {
@@ -557,6 +562,8 @@ body {
     font-size: 1.2rem;
     color: #fff;
     transition: 0.3s;
+    padding: 10px;
+
 }
 
 .img-content3 button {
@@ -564,7 +571,8 @@ body {
     background-color: var(--primary-color);
     color: var(--white);
     border-radius: 10px;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .img-content3 button:hover {
