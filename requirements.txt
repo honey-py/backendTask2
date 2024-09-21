@@ -1,3 +1,6 @@
+admin user: py
+admin password: DJango$1
+
 steps (for linux):
 
 1. source bin/activate
