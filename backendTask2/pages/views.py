@@ -12,3 +12,6 @@ def content2(request, *args, **kwargs):
 
 def content3(request, *args, **kwargs):
     return render(request, 'content3.html', {})
+
+def cart(request, *args, **kwargs):
+    return render(request, 'cart.html', {})
