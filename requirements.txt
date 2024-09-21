@@ -1,4 +1,4 @@
-steps:
+steps (for linux):
 
-1. source bin/activate (for linux)
+1. source bin/activate
 2. python3 manage.py runserver
